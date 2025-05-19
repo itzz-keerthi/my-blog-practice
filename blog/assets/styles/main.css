@@ -8,6 +8,15 @@ body {
   }
   
   .subscribe-btn {
-    background: #581da0;
+    background: #bb86fc;
     color: #121212;
+    padding: 12px 24px;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .subscribe-btn:hover {
+    background: #a370e3;
+    transform: translateY(-1px);
   }
