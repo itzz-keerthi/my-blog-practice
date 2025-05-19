@@ -1,22 +1,21 @@
 body {
-    background: #121212;
-    color: #e0e0e0;
-  }
-  
-  a {
-    color: #7713f0;
-  }
-  
-  .subscribe-btn {
-    background: #bb86fc;
-    color: #121212;
-    padding: 12px 24px;
-    border-radius: 4px;
-    border: none;
-    cursor: pointer;
-  }
-  
-  .subscribe-btn:hover {
-    background: #a370e3;
-    transform: translateY(-1px);
-  }
+  background: #121212;
+  color: #e0e0e0;
+}
+
+a {
+  color: #bb86fc;
+}
+
+.subscribe-btn {
+  background: #bb86fc;
+  color: #121212;
+  padding: 12px 24px;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+}
+.subscribe-btn:hover {
+  background: #a370e3;
+  transform: translateY(-1px);
+}
