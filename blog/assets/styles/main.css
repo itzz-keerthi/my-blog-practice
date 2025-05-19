@@ -1,13 +1,21 @@
+body {
+  background: #121212;
+  color: #e0e0e0;
+}
+
+a {
+  color: #bb86fc;
+}
+
 .subscribe-btn {
-    background: #1a73e8;
-    color: white;
-    padding: 10px 30px;
-    border-radius: 3px;
-    border: none;
-    cursor: pointer;
-  }
-  
-  .subscribe-btn:hover {
-    background: #1765cc;
-    transform: translateY(-1px);
-  }
+  background: #bb86fc;
+  color: #121212;
+  padding: 12px 24px;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+}
+.subscribe-btn:hover {
+  background: #a370e3;
+  transform: translateY(-1px);
+}
